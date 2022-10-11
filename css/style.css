@@ -1,0 +1,445 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.container{
+	       width:1170px;
+		   margin:0 auto;
+}
+
+.row{
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.col-lg-1{
+	width:8.33%;
+	padding:0 15px;
+}
+
+.col-lg-2{
+	width:16.66%;
+	padding:0 15px;
+}
+
+.col-lg-3{
+	width:25%;
+	padding:0 15px;
+}
+
+.col-lg-4{
+	width:33.33%;
+	padding:0 15px;
+}
+
+.col-lg-5{
+	width:41.66%;
+	padding:0 15px;
+}
+
+.col-lg-6{
+	width:50%;
+	padding:0 15px;
+}
+
+.col-lg-7{
+	width:58.33%;
+	padding:0 15px;
+}
+
+.col-lg-8{
+	width:66.66%;
+	padding:0 15px;
+}
+
+.col-lg-9{
+	width:75%;
+	padding:0 15px;
+}
+
+.col-lg-10{
+	width:83.33%;
+	padding:0 15px;
+}
+.col-lg-11{
+	width:91.66%;
+	padding:0 15px;
+}
+
+.col-lg-12{
+	width:100%;
+	padding:0 15px;
+}
+/*---------header---------*/
+
+.header-menu{
+	background:aqua;
+	padding:10px 0;
+}
+
+.logo{
+	background:red;
+	height:50px;
+}
+
+.menu-bar{
+	background:red;
+	height:50px
+}
+
+.banner-section{
+	background:yellow;
+	height:600px;
+	padding:150px 0;
+}
+
+.banner-content{
+	background-color:orange;
+	height:300px;
+}
+.client-section{
+	padding:20px 0px;
+	height:60px;
+	padding:20px 0px;
+}
+.client-logo{
+
+        background-color:blue;
+
+        height:60px;
+		}
+
+.about-section{
+
+            padding-top:80px;
+
+             padding-bottom:80px; 
+             background-color:black;
+
+}
+.about-content{
+
+        background-color:blue;
+         height:400px;
+}
+
+.abt-list-box{
+       background-color: blue;
+
+      height: 141px;
+     margin-bottom: 36px;
+}
+.service-section{
+
+     padding-top: 20px;
+     padding-bottom: 20px
+}
+
+.service-logo{
+
+       background-color:blue;
+
+        height:60px;
+}
+.asset{
+
+       background-color: black;
+
+         padding-top:50px;
+
+           padding-bottom:50px;
+}
+
+.asset-logo{
+
+            background-color: blue;
+
+                 height: 100px;
+}
+
+.asset-content{
+
+         background-color: blue;
+
+        height: 280px;
+          margin-top: 30px;
+}
+
+.service{
+
+        background-color:blue;
+
+         padding-top:50px;
+
+         padding-bottom: 50px;
+}
+.service-content{
+
+          background-color:black;
+
+          height:100px;
+          padding:20px;
+}
+.service-icon{
+               background-color:black;
+
+              height: 200px;
+              margin: 12px;
+}
+
+.portfolio-section{
+           background-color:black;
+
+             padding-top:50px;
+			 padding-bottom:50px;
+}
+.portofolio-content{ 
+         background-color:blue;
+            height:50px;
+}
+
+.portofolio-logo{
+	background-color:blue;
+
+height:50px;
+ margin:14px
+}
+
+.portfolio-icon{   
+                background-color:blue;
+
+            height: 200px;
+
+          margin: 14px;
+}
+
+.testimonials-section{
+
+                    background-color:blue;
+                       padding-top:40px;
+ 
+                 padding-bottom:40px;
+}
+
+.testimonials-content{
+
+           background-color:black;
+               height:100px;
+}
+ .testimonials-icons{
+
+          background-color: black;
+            height: 300px;
+
+            margin-top: 40px;
+ }
+
+.pricing-section{
+
+                background-color:black;
+
+               padding-top: 40px; 
+                  padding-bottom:40px;
+}
+
+.pricing-content{
+
+                 background-color:blue;
+
+                  height:100px;
+}
+
+.pricing-icons{
+
+        background-color: blue;
+
+           height: 500px;
+            margin-top: 40px;
+}
+.FAQ-section{
+
+           background-color:blue;
+           padding-top:40px;
+
+          padding-bottom:40px;
+}
+.FAQ-content{
+
+            background-color:black;
+             height:100px;
+}
+
+.FAQ-question{
+
+             background-color:black;
+
+                height:400px;
+              margin-top: 25px;
+}
+.team-section{
+
+            background-color:black;
+
+            padding-top:40px;
+
+                 padding-bottom:40px;
+
+} 
+.team-content {
+
+                background-color:blue;
+
+                   height:100px;
+
+} 
+.team-Icons{
+
+           background-color: blue;
+
+           height: 300px;
+
+            margin-top: 40px;
+}
+
+.contact-section{
+
+               background-color:blue;
+
+               padding-top: 40px; 
+              padding-bottom:40px
+}
+.contact-content{
+
+           background-color:black;
+              height:100px;
+}
+
+.contact-address{
+
+             background-color:black;
+
+           height:150px; 
+         margin-top: 20px;
+}
+
+.contact-email{
+	               background-color: blue;
+
+                     height: 300px; 
+                    margin-top: 40px;
+}
+
+.contact-section{
+
+              background-color:blue;
+
+              padding-top:40px;
+
+            padding-bottom:40px;
+}
+
+.contact-content{
+
+           background-color:black;
+              height:100px;
+}
+
+.contact-address{
+
+              background-color:black;
+
+               height:150px;
+              margin-top: 20px;
+}
+
+.contact-email{
+
+               background-color: black;
+
+                 height: 200px;
+
+                margin-top: 50px;
+}
+.contact text-area{
+
+          background-color:black;
+
+             height:400px;
+           margin-top: 20px;
+}
+
+.bottom section{
+
+            background-color:black;
+
+            padding-top:40px;
+
+            padding-bottom:40px;
+}
+
+.bottom-content{
+
+                background-color:blue;
+                height:100px;
+}
+
+
+.contact-address{
+
+             background-color:black;
+
+              height:150px;
+         margin-top: 20px;
+}
+
+.contact-email{
+
+              background-color: black;
+
+               height: 200px;
+            margin-top: 50px;
+}
+
+.contact-text-area{
+
+           background-color:black;
+                   height:400px;
+
+            margin-top: 20px;
+}
+
+.bottom-section{
+
+               background-color:black;
+                     padding-top:40px;
+
+                 padding-bottom:40px;
+}
+
+.bottom-content{
+
+               background-color:blue; 
+                  height:200px;
+}
+
+.footer-section{
+
+                 background-color:blue;
+
+            padding-top:40px;
+			padding-bottom:40px;
+}
+
+.footer-content{
+
+         background-color: black;
+
+        height: 100px;
+}
+
+
+
+
+
